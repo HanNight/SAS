@@ -4,7 +4,7 @@
 
 <sup>1</sup>UNC Chapel Hill, <sup>2</sup>AMD
 
-![image](https://github-production-user-asset-6210df.s3.amazonaws.com/36069169/581224209-cd3778c5-be7c-4737-b7b7-6ec33073c67f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260421%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260421T070045Z&X-Amz-Expires=300&X-Amz-Signature=febcc32b9860a4965d0d87f795ba4028775f605b1d5c6a74daded2def2f9ed7a&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng)
+![image](https://github.com/user-attachments/assets/96ff9959-3992-4203-a8ed-1bbc8fb15a68)
 
 ## Installation
 
