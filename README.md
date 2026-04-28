@@ -1,4 +1,4 @@
-# [Stabilizing Efficient Reasoning with Step-Level Advantage Selection (SAS)]()
+# [Stabilizing Efficient Reasoning with Step-Level Advantage Selection (SAS)](https://arxiv.org/abs/2604.24003)
 
 [Han Wang](https://hannight.github.io/)<sup>1</sup>, [Xiaodong Yu]()<sup>2</sup>, [Jialian Wu]()<sup>2</sup>, [Jiang Liu]()<sup>2</sup>, [Ximeng Sun]()<sup>2</sup>, [Mohit Bansal]()<sup>1</sup>, [Zicheng Liu]()<sup>2</sup>
 
@@ -100,5 +100,5 @@ We sincerely thank the authors of [verl](https://github.com/verl-project/verl) a
   title={Stabilizing Efficient Reasoning with Step-Level Advantage Selection},
   author={Han Wang and Xiaodong Yu and Jialian Wu and Jiang Liu and Ximeng Sun and Mohit Bansal and Zicheng Liu},
   year={2026},
-  journal={arXiv preprint arXiv:}
+  journal={arXiv preprint arXiv:2604.24003}
 }
