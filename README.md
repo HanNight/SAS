@@ -1,6 +1,6 @@
 # [Stabilizing Efficient Reasoning with Step-Level Advantage Selection (SAS)](https://arxiv.org/abs/2604.24003)
 
-[Han Wang](https://hannight.github.io/)<sup>1</sup>, [Xiaodong Yu]()<sup>2</sup>, [Jialian Wu]()<sup>2</sup>, [Jiang Liu]()<sup>2</sup>, [Ximeng Sun]()<sup>2</sup>, [Mohit Bansal]()<sup>1</sup>, [Zicheng Liu]()<sup>2</sup>
+[Han Wang](https://hannight.github.io/)<sup>1</sup>, [Xiaodong Yu](https://www.xiaodongyu.me/)<sup>2</sup>, [Jialian Wu](https://jialianwu.com/)<sup>2</sup>, [Jiang Liu](https://joellliu.github.io/)<sup>2</sup>, [Ximeng Sun](https://sunxm2357.github.io/)<sup>2</sup>, [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)<sup>1</sup>, [Zicheng Liu](https://zicliu.wixsite.com/mysite)<sup>2</sup>
 
 <sup>1</sup>UNC Chapel Hill, <sup>2</sup>AMD
 
